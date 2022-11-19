@@ -21,6 +21,7 @@ public class StandAloneTest2  extends BaseTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//comment added
 
 		String productName = "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();
